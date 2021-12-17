@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Тор", "Тор\Тор.vcxproj", "{BC44C833-E549-451E-856E-1D815D4B91D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC44C833-E549-451E-856E-1D815D4B91D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC44C833-E549-451E-856E-1D815D4B91D1}.Debug|Win32.Build.0 = Debug|Win32
+		{BC44C833-E549-451E-856E-1D815D4B91D1}.Release|Win32.ActiveCfg = Release|Win32
+		{BC44C833-E549-451E-856E-1D815D4B91D1}.Release|Win32.Build.0 = Release|Win32
+		{BC44C833-E549-451E-856E-1D815D4B91D1}.Template|Win32.ActiveCfg = Template|Win32
+		{BC44C833-E549-451E-856E-1D815D4B91D1}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
